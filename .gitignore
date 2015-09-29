@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io/api/osx,windows,linux,ruby,rubymine,intellij,notepadpp,tower
 
+### Config ###
+lib/config/config.yml
+
 ### OSX ###
 .DS_Store
 .AppleDouble
